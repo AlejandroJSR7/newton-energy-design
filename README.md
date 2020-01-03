@@ -1,14 +1,20 @@
 ## Newton Energy Design
 
-> Inside the images folder you will find 3 folders with the following:
+### Design Files:
+  - 🎨 : [Design Wireframe](https://github.com/AlejandroJSR7/newton-energy-design/blob/master/Newton%20Energy%20%20Wireframe.xd?raw=true)
+  - 🎨 : [Design Mockup](https://github.com/AlejandroJSR7/newton-energy-design/blob/master/Newton%20Energy.xd?raw=true)
+
+### Inside the images folder you will find 3 folders with the following:
 - 😜 Icons
 - 🌄 Background Images
 - 🍬 Misc Icons (Logos, helpers, etc)
 
-> Inside fonts folder you will find the fonts and also the html code to implement those from google site:
+### Inside fonts folder you will find the fonts and also the html code to implement those from google site:
 - 🆒 Fonts
 
-> Links
+
+
+### Links
 
 | Design 🎨     | Development 🔨          |
 | ------------- |:-------------:|
