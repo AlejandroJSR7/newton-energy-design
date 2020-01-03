@@ -5,5 +5,5 @@
 - 🌄 Background Images
 - 🍬 Misc Icons (Logos, helpers, etc)
 
-> Inside the fonts folder you will find fonts files and they html code to implement from google fonts:
+> Inside fonts folder you will find the fonts and also the html code to implement those from google site:
 - 🆒 Fonts
