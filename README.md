@@ -28,3 +28,13 @@ Inside fonts folder you will find the fonts and also the html code to implement 
 ## Screenshots
 Design process Screenshots
 - 📷 [Screenshots](https://github.com/AlejandroJSR7/newton-energy-design/tree/master/screenshots)
+
+## Final Design
+
+### Desktop
+
+<img src="https://raw.githubusercontent.com/AlejandroJSR7/newton-energy-design/master/images/Newton%20Energy%20%E2%80%93%20Desktop%20%E2%80%93%20mockup.png" alt="Web Version"/>
+
+### Mobile
+
+<img src="https://raw.githubusercontent.com/AlejandroJSR7/newton-energy-design/master/images/Newton%20Energy%20-%20Mobile.png" alt="Mobile Version"/>
